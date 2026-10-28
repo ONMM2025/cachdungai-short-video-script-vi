@@ -1,6 +1,6 @@
 ---
 name: short-video-script-vi
-description: Viết kịch bản video dọc ngắn bằng tiếng Việt cho Reels, Shorts và TikTok từ chủ đề, bài viết, bản demo hoặc brief. Dùng khi cần hook rõ, hình ảnh có diễn tiến, lời thoại tự nhiên và phần kết hữu ích.
+description: Viết kịch bản video dọc tiếng Việt cho Reels, Shorts hoặc TikTok, gồm lời thoại và hình ảnh theo cảnh. Dùng khi cần bản quay/dựng từ một mục tiêu; không hứa tăng reach.
 ---
 
 # Kịch bản video ngắn tiếng Việt
@@ -13,7 +13,7 @@ Biến một ý tưởng thành video dọc ngắn có điều để nói và h�
 
 - Chủ đề và một điều người xem cần hiểu/làm sau video.
 - Đối tượng và mức kiến thức.
-- Nền tảng, thời lượng, người dẫn hoặc kiểu hình ảnh.
+- Nền tảng, thời lượng, người dẫn hoặc kiểu hình ảnh. Nếu yêu cầu nhiều nền tảng, nêu một bản chính và chỉ rõ khác biệt cần sửa cho từng nền tảng.
 - Tài liệu, thao tác màn hình hoặc ví dụ có thể chứng minh claim.
 - CTA: lưu bài, xem bài dài, tải tài nguyên, theo dõi hoặc thử một bước.
 
@@ -23,14 +23,14 @@ Nếu thiếu thời lượng, đề xuất 30–45 giây. Nếu thiếu bằng 
 
 1. Chọn một mục tiêu học tập duy nhất. Nếu brief có nhiều chủ đề, đề nghị tách thành chuỗi.
 2. Tạo ba hướng mở: lỗi thường gặp, câu hỏi thực tế hoặc đối chiếu trước/sau có căn cứ.
-3. Chọn hook khớp nội dung; trong 1–3 giây đầu phải nói rõ người xem sẽ nhận được gì.
+3. Chọn hook khớp nội dung và đưa lợi ích/điểm chú ý lên sớm. Mốc 1–3 giây chỉ là gợi ý để thử, không phải quy luật bảo đảm giữ chân hay tăng reach.
 4. Chia câu chuyện thành các beat: hook → vấn đề → thao tác/giải thích → minh chứng → kết luận/CTA.
 5. Ghép hình với ý. Mỗi beat cần một hành động, giao diện, đạo cụ, chữ, sơ đồ hoặc thay đổi khung hình có mục đích.
 6. Viết lời thoại như lời nói tự nhiên. Chia câu để dễ đọc, tránh nhồi ba ý trong một hơi.
 7. Chọn chữ trên màn hình chỉ để nhấn ý, không chép nguyên cả lời thoại.
 8. Đánh dấu cảnh quay màn hình, ảnh, tư liệu, âm thanh và phần cần tạo bằng công cụ AI. Không mô tả hình giả lập như giao diện thật.
 9. Kết thúc bằng một hành động nhỏ, cụ thể; CTA không được lấn át giá trị chính.
-10. Kiểm tra thời lượng bằng tốc độ đọc hợp lý và ghi phần nào cần rút nếu video vượt giới hạn.
+10. Ước tính số từ lời thoại và thời lượng đọc theo nhịp nói tự nhiên; ghi khoảng nghỉ, cảnh cần thêm thời gian và đoạn nên rút nếu vượt thời lượng. Thời gian trong bảng là ước tính để người dùng đọc thử và chỉnh.
 
 ## Đầu ra
 
